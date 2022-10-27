@@ -141,7 +141,18 @@ Now add this follwing code snippet (with your github username where required.) a
 <table>
     <tr>
         <td align="center"><a href="https://github.com/ShankarLohar"><img src="https://avatars.githubusercontent.com/u/74100292?v=4" width="100px;" alt=""/><br /><sub><b>Shankar Lohar</b></sub></td>
-        
+
+<td align="center">
+<a href="https://github.com/ShaikhHeeba07">
+    <img src="https://media-exp1.licdn.com/dms/image/D4D03AQFP3lCeYqeWCw/profile-displayphoto-shrink_800_800/0/1666906040203?e=1672272000&v=beta&t=i-DV-ZyOZCwBcnJ8Q0OaWzuRYuGf3tVQG0MizlH0I4o" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            HEEBA SHAIKH
+        </b>
+    </sub>
+</td>
+
 <td align="center">
 <a href="https://github.com/Aestivial">
     <img src="https://avatars.githubusercontent.com/u/69592060?v=4" width="100px;" alt=""/>
